@@ -1,0 +1,29 @@
+install node js
+create a folder
+inside folder create index.html
+open cmd
+run npm install -g http-server
+cd into the folder
+run http-server -p 8080
+go 192.168.0.1
+login: cusadmin password
+go to applications & gaming
+port range forwarding
+8080 to 8080, 192.168.0.18, or use ipconfig under ipv4 and see local computer ip
+
+create folder
+npm init
+enter enter enter
+create public folder
+create matlab folder
+cd public
+create index.html
+carete index.js
+create styles.css
+
+
+todo:
+find out how to run script automatically
+find out how to display the output (JSONlab)
+make the website look better
+
